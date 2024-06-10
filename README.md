@@ -1,3 +1,5 @@
+# smile-invest-project
+
 # 프로젝트소개
 #### smile-invest(크라우드 펀딩 사이트 제작)
 <br/>
@@ -22,5 +24,3 @@
 
 > 프로젝트 기획서 : https://elastic-network-b5d.notion.site/4-feat-27fdeb2d6ea7456fa6e32bea0e0a4ae5
 > 기존 gitlab 주소 : https://gitlab.com/hellogroup04/smile_invest
-# smile-invest-project
-# smile-invest-project
